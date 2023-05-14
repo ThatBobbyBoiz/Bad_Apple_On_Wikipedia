@@ -42,7 +42,7 @@ Before starting, it's advised to have some basic coding knowledge. Also, keep in
 <p id="ascii_art_project" style="font-family:monospace; font-size: 9px;line-height: 9px;width: 680px"></p>
 ```
 
-You can change the style of the text element depends on your need, but if you want to change, also make sure the ASCII will fit the text element area, otherwise it may cause some glitches when the visual is playing.
+You can change the style of the text element depends on your need, but if you want to change, also make sure the ASCII frame will fit the text element area, otherwise it may cause some glitches when the visual is playing.
 
 6. Now, go to the Console tab and paste the content of the `run_bad_apple_wikipedia.js` code (remember to change the variable I specified in the code) into the console. If pasting is disabled, you can try typing `allow pasting` into the console.
 
